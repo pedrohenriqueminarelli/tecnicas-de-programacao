@@ -1,4 +1,4 @@
-package coisasDeJava.simulados;
+package coisasDeJava.simulado_1;
 
 public class FilaConsultavel <X> extends Fila<X>{
 
