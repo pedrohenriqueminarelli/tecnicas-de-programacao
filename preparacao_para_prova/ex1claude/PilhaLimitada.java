@@ -1,4 +1,4 @@
-package coisasDeJava.ex1claude;
+package preparacao_para_prova.ex1claude;
 
 public class PilhaLimitada<X> extends Pilha <X> {
     public PilhaLimitada(int tamanho, int limite ) throws Exception{

@@ -1,4 +1,4 @@
-package coisasDeJava.simulado_2;
+package preparacao_para_prova.simulado_2;
 
 public interface PadraoDeFilaPrioritaria<T> {
     public void guardeItem(T valor, int prioridade) throws Exception;

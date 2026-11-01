@@ -1,6 +1,6 @@
-package coisasDeJava.simulado_2;
+package preparacao_para_prova.simulado_2;
  
-import coisasDeJava.clonador.Clonador;
+import preparacao_para_prova.clonador.Clonador;
  
 public class FilaPrioritaria<T> implements PadraoDeFilaPrioritaria<T>, Cloneable
 {

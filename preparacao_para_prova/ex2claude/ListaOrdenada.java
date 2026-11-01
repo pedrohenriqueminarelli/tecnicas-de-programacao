@@ -1,6 +1,6 @@
-package coisasDeJava.ex2claude;
+package preparacao_para_prova.ex2claude;
 
-import coisasDeJava.clonador.Clonador;
+import preparacao_para_prova.clonador.Clonador;
 
 public class ListaOrdenada<X extends Comparable<X>> implements PadraoDeListaOrdenada<X>, Cloneable
 {

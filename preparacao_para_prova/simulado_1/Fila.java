@@ -1,6 +1,6 @@
-package coisasDeJava.simulado_1;
+package preparacao_para_prova.simulado_1;
 
-   import coisasDeJava.clonador.Clonador;
+   import preparacao_para_prova.clonador.Clonador;
 
 public class Fila<X> implements PadraoDeFila<X>, Cloneable
 {

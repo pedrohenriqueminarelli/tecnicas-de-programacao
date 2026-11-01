@@ -1,4 +1,4 @@
-package coisasDeJava.simulado_2;
+package preparacao_para_prova.simulado_2;
 
 public class FilaPrioritariaConsultavel<X> extends FilaPrioritaria<X> {
    public FilaPrioritariaConsultavel(int tamanho ) throws Exception{

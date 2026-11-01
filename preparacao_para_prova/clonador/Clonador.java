@@ -1,4 +1,4 @@
-package coisasDeJava.clonador;
+package preparacao_para_prova.clonador;
 
 import java.lang.reflect.*;
 

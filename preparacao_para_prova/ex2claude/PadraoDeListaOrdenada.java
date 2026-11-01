@@ -1,4 +1,4 @@
-package coisasDeJava.ex2claude;
+package preparacao_para_prova.ex2claude;
 
 public interface PadraoDeListaOrdenada <P> {
     public void inclua(P valor) throws Exception;

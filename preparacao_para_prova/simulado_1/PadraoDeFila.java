@@ -1,4 +1,4 @@
-package coisasDeJava.simulado_1;
+package preparacao_para_prova.simulado_1;
 
 public interface PadraoDeFila<X>{
     public void guardeItem(X valor) throws Exception;

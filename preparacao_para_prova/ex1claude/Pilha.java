@@ -1,6 +1,6 @@
-package coisasDeJava.ex1claude;
+package preparacao_para_prova.ex1claude;
 
-import coisasDeJava.clonador.Clonador;
+import preparacao_para_prova.clonador.Clonador;
 
 public class Pilha<X> implements PadraoDePilha<X>, Cloneable
 {

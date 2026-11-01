@@ -1,4 +1,4 @@
-package coisasDeJava.ex2claude;
+package preparacao_para_prova.ex2claude;
 
 public class Ranking <X extends Comparable<X>> extends ListaOrdenada<X> implements Comparable<Ranking<X>> {
 
