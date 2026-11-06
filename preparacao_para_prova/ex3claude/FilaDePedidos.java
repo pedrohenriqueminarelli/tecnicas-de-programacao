@@ -1,4 +1,4 @@
-package ex3claude;
+package preparacao_para_prova.ex3claude;
  
 public class FilaDePedidos<T> implements PadraoDeFilaDePedidos<T>, Cloneable
 {

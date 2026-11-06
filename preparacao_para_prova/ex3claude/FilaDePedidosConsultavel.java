@@ -1,4 +1,4 @@
-package ex3claude;
+package preparacao_para_prova.ex3claude;
 
 public class FilaDePedidosConsultavel<T> extends FilaDePedidos<T> {
     public FilaDePedidosConsultavel(int tamanho) throws Exception{

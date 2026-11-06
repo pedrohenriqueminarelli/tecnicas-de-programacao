@@ -1,4 +1,4 @@
-package ex3claude;
+package preparacao_para_prova.ex3claude;
 
 public interface PadraoDeFilaDePedidos<T> {
      public void guardePedido(T valor, int quantidade) throws Exception;
